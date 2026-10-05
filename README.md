@@ -18,7 +18,7 @@ To investigate whether variations in Wi-Fi Channel State Information (CSI) can b
 
 The initial experiment focuses on differentiating between:
 
-* Sitting / Stationary
+* Sitting / Stationary(Empty-room)
 * Moving
 
 ⸻
